@@ -1,0 +1,18 @@
+<app-header (featureSelected)="onNavigate($event)"></app-header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <!--test<app-hotel-view [hotelItem]="myHotelItem"></app-hotel-view>
+      <app-hotel-add (hotelAdded)="onHotelAdded($event)"></app-hotel-add>
+      <hr>
+
+      <app-child-view [menuItems]="myMenuItem"></app-child-view>
+      <app-child-add (menuAdded)="onMenuAdded($event)" ></app-child-add>
+      <hr>-->
+
+      <app-recipes *ngIf="loadedFeature === 'recipe'"></app-recipes>
+      <app-shopping-list *ngIf="loadedFeature !== 'recipe'"></app-shopping-list>
+    </div>
+  </div>
+</div>

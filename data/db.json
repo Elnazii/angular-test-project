@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "title": "Recipe 1",
+      "description": "Recipe Description 1",
+      "image": "https://photos.smugmug.com/Thai-Recipes-2017/i-48MZPMP/0/d7e559ea/X3/thai-cashew-chicken-recipe-33-X3.jpg"
+    },
+    {
+      "title": "Recipe 2",
+      "description": "Recipe Description 2",
+      "image": "https://photos.smugmug.com/Thai-Recipes-2017/i-48MZPMP/0/d7e559ea/X3/thai-cashew-chicken-recipe-33-X3.jpg"
+    },
+    {
+      "title": "Recipe 3",
+      "description": "Recipe Description 3",
+      "image": "https://photos.smugmug.com/Thai-Recipes-2017/i-48MZPMP/0/d7e559ea/X3/thai-cashew-chicken-recipe-33-X3.jpg"
+    },
+    {
+      "title": "Recipe 4",
+      "description": "Recipe Description 4",
+      "image": "https://photos.smugmug.com/Thai-Recipes-2017/i-48MZPMP/0/d7e559ea/X3/thai-cashew-chicken-recipe-33-X3.jpg"
+    }
+  ]
+}
